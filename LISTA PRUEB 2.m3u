@@ -14,11 +14,11 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title="News",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Canaltrece.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://logos.fandom.com/wiki/Canal_13_(Argentina)?file=El-trece.jpg#1994-2000" group-title="Noticiero",Canal 13 (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tvargentinahd.com/canal-13-en-vivo/
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/903k_wttx
 #EXTINF:-1 tvg-id="Canalnueve.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Canal_9_Argentina.png" group-title="Noticiero",Canal 9 (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.elnueve.com.ar/vivo
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/639_argtv2
 
-https://www.ver-television.online/canal-trece-en-vivo
+
 
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",AgrotendenciaTV (480p) [Not 24/7]
