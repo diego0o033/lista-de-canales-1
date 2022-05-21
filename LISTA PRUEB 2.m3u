@@ -17,20 +17,20 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/903k_wttx
 #EXTINF:-1 tvg-id="Canalnueve.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Canal_9_Argentina.png" group-title="Noticiero",Canal 9 (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/639_argtv2
-
-
+#EXTINF:-1 tvg-id="Tv publica" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Noticiero",Tv publica (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/live/4584736104118
+#EXTINF:-1 tvg-id="Cronica Tv" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Cr%C3%B3nica_TV_logotipo_(2016).png" group-title="Noticiero",Cronica tv (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
 
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",AgrotendenciaTV (480p) [Not 24/7]
 https://inliveserver.com:1936/15506/15506/playlist.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="219" tvg-name="Crossing TV" tvg-logo="https://lh3.googleusercontent.com/-cfF_P57hra8/X3pe12dKpLI/AAAAAAAA6K0/vlkxn0CuVcAn8pzB7GPAhoevDLdHmympwCK8BGAsYHg/s0/2020-10-04.png", Crossing TV * | AR
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="768" tvg-name="Milennio TV" tvg-logo="https://lh3.googleusercontent.com/-Okb7Al3MiUA/YGRyS0KsdVI/AAAAAAABBEY/A8Z5hNSeanUQIpVVLnc0dwj-6nsKu0TvgCK8BGAsYHg/s512/2021-03-31.png", Milennio TV * | AR
 https://streamconex.com:1936/milenniotv/milenniotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV * | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV * | CL
